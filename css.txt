@@ -1,1 +1,11 @@
-test
+.filter-dropdown .types-of-alert div {
+    float: left;
+    width: 25%;
+}
+.filter-dropdown .types-of-alert div label input {
+    margin-right: 5px;
+}
+.filter-dropdown .types-of-alert div label {
+    font-weight: 600;
+    text-transform: capitalize;
+}
