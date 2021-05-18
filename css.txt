@@ -9,3 +9,7 @@
     font-weight: 600;
     text-transform: capitalize;
 }
+    width: 100%;
+    overflow-x: scroll;
+    max-width: 100%;
+    display: inherit;
