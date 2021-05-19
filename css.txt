@@ -1,15 +1,30 @@
-.filter-dropdown .types-of-alert div {
-    float: left;
-    width: 25%;
+<div class="description disp">
+                                                <div class="info">
+                                                    <div class="title top-padd">
+                                                            <p class="slider_description_one down-text"> SUBSCRIBE REPORT </p>
+                                                    </div>
+                                                </div>
+                                                <a class="more" target="_blank" 
+.research-report-img:hover .description {
+    bottom: 0;
 }
-.filter-dropdown .types-of-alert div label input {
-    margin-right: 5px;
+You6:45 PM
+.research-report-img .description {
+    background: rgba(87,186,232,.82);
 }
-.filter-dropdown .types-of-alert div label {
-    font-weight: 600;
-    text-transform: capitalize;
+.description.disp {
+    bottom: -75%;
 }
+.research-report-img .description {
+    position: absolute;
+    bottom: -100%;
+    padding: 12px 0;
     width: 100%;
-    overflow-x: scroll;
-    max-width: 100%;
-    display: inherit;
+    height: 100%;
+    background: rgba(87,186,232,.87);
+    color: #fff;
+    -moz-transition: bottom .4s linear;
+    -webkit-transition: bottom .4s linear;
+    -o-transition: bottom .4s linear;
+    transition: bottom .4s linear;
+}
