@@ -4,7 +4,17 @@
                                                             <p class="slider_description_one down-text"> SUBSCRIBE REPORT </p>
                                                     </div>
                                                 </div>
-                                                <a class="more" target="_blank" 
+                                                </div>
+.research-report-img {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.research-report-img .img-responsive {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 150px;
+}
 .research-report-img:hover .description {
     bottom: 0;
 }
