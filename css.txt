@@ -1,3 +1,5 @@
+<div _ngcontent-ng-cli-universal-c3="" class="image research-report-img">
+<img _ngcontent-ng-cli-universal-c3="" class="img-responsive" src="http://www.indiaratings.co.in/data/Uploads/Reports/18861/Images/Thumb_18861.jpg">
 <div class="description disp">
                                                 <div class="info">
                                                     <div class="title top-padd">
@@ -5,6 +7,8 @@
                                                     </div>
                                                 </div>
                                                 </div>
+</div>
+
 .research-report-img {
     float: left;
     width: 100%;
