@@ -1,44 +1,12 @@
-<div _ngcontent-ng-cli-universal-c3="" class="image research-report-img">
-<img _ngcontent-ng-cli-universal-c3="" class="img-responsive" src="http://www.indiaratings.co.in/data/Uploads/Reports/18861/Images/Thumb_18861.jpg">
-<div class="description disp">
-                                                <div class="info">
-                                                    <div class="title top-padd">
-                                                            <p class="slider_description_one down-text"> SUBSCRIBE REPORT </p>
-                                                    </div>
-                                                </div>
-                                                </div>
-</div>
-
-.research-report-img {
-    float: left;
-    width: 100%;
-    text-align: center;
-}
-.research-report-img .img-responsive {
-    margin: 0 auto;
-    width: 100%;
-    max-width: 150px;
-}
-.research-report-img:hover .description {
-    bottom: 0;
-}
-You6:45 PM
-.research-report-img .description {
-    background: rgba(87,186,232,.82);
-}
-.description.disp {
-    bottom: -75%;
-}
-.research-report-img .description {
-    position: absolute;
-    bottom: -100%;
-    padding: 12px 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(87,186,232,.87);
+.recentreports-section .blog-card.bg-white:hover h6 {
     color: #fff;
-    -moz-transition: bottom .4s linear;
-    -webkit-transition: bottom .4s linear;
-    -o-transition: bottom .4s linear;
-    transition: bottom .4s linear;
+}
+.recentreports-section .blog-card.bg-white:hover h6 span {
+    color: #fff;
+}
+.recentreports-section .blog-card.bg-white:hover h4 {
+    color: #fff;
+}
+.research-report-section {
+    z-index: 1;
 }
