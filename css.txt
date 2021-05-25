@@ -1,12 +1,8 @@
-.recentreports-section .blog-card.bg-white:hover h6 {
-    color: #fff;
+.blog-card.bg-white.listing-card:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }
-.recentreports-section .blog-card.bg-white:hover h6 span {
-    color: #fff;
-}
-.recentreports-section .blog-card.bg-white:hover h4 {
-    color: #fff;
-}
-.research-report-section {
-    z-index: 1;
+.blog-card.bg-white.listing-card {
+    transition: transform .4s;
 }
