@@ -1,8 +1,14 @@
-.blog-card.bg-white.listing-card:hover {
-    -ms-transform: scale(1.1);
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
+<button class="button button1"><img src="http://219.65.89.233/IRUI/leftarrow.png"></button>
+<button class="button button2"><img src="http://219.65.89.233/IRUI/rightarrow.png"></button>
+button.button.button1 {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    border: 0;
 }
-.blog-card.bg-white.listing-card {
-    transition: transform .4s;
+button.button.button2 {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    border: 0;
 }
