@@ -1,17 +1,7 @@
-.latestreport{background: #ededed; margin-bottom:10px;}
-.latestreport .most-latest-outlook a.d-flex.popular-card .details p {
-    color: #0f1923;
-    font-family: 'Raleway', sans-serif;
-    font-weight: bold;
+.latestreport .most-latest-outlook a.d-flex.popular-card.flex-wrp {
+    display: inline-block;
 }
-.latestreport .most-latest-outlook a.d-flex.popular-card .details h3 {
-    font-size: 15px;
-    color: #0f1923;
-    font-weight: bold;
-    font-family: 'Raleway', sans-serif; margin-bottom:0;
+.latestreport .most-latest-outlook {
+    float: left;
+    width: 100%;
 }
-.latestreport:hover {
-    background: #DC143C;
-}
-.latestreport:hover .most-latest-outlook a.d-flex.popular-card .details p{ color:#ffffff;}
-.latestreport:hover .most-latest-outlook a.d-flex.popular-card .details h3{ color:#ffffff;}
