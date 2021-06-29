@@ -1,11 +1,4 @@
-.latestreport .most-latest-outlook a.d-flex.popular-card.flex-wrp {
-    display: inline-block;
-}
-.latestreport .most-latest-outlook {
-    float: left;
-    width: 100%;
-}
-.latestreport {
-    float: left;
-    width: 100%;
+.recentreports-section .align-items-start.listing-card-wrp {
+    position: relative;
+    padding: 0 30px;
 }
