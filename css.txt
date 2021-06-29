@@ -1,4 +1,11 @@
-.recentreports-section .align-items-start.listing-card-wrp {
-    position: relative;
-    padding: 0 30px;
+button.button.button1.sectoralleftrecordbutton {
+    height: 55px;
+    left: -24px;
+    top: 30%;
+}
+
+button.button.button2.sectoralrightrecordbutton {
+    right: -24px;
+    height: 55px;
+    top: 30%;
 }
